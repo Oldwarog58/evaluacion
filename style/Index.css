@@ -1,0 +1,70 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+.titulin_original {
+    color: hotpink;
+    justify-content: center;
+    display: flex;
+}
+
+.first{
+    border: 2px;
+    padding: 40px;
+    background-color: whitesmoke;
+    margin: 40px; 
+    width: 285px;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    box-shadow: none;
+    box-shadow: 1px -16px rgb(65, 69, 69);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.parraf1{
+   font-size: large;
+}
+
+.second{
+    border: 2px;
+    padding: 40px;
+    background-color: whitesmoke;
+    margin: 40px; 
+    width: 285px;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    box-shadow: none;
+    box-shadow: 1px -16px rgb(65, 69, 69);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+   
+}
+
+.thirt{
+    border: 2px;
+    padding: 40px;
+    background-color: whitesmoke;
+    margin: 40px; 
+    width: 285px;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    box-shadow: none;
+    box-shadow: 1px -16px rgb(65, 69, 69);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    justify-content: center;
+}
+
+.finalito{
+    color: hotpink;
+    justify-content: center;
+    display: flex;
+    
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color: rebeccapurple;
+    }
+}
